@@ -1,2 +1,3 @@
-# LIKEANAME
+# 잡동사니
+
 my repository
